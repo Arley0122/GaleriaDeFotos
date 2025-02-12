@@ -1,7 +1,7 @@
 
 # Galeria de Fotos
 
-Este é um projeto de uma galeria de fotos interativa, desenvolvido com Next.js e TypeScript. O objetivo é mostrar uma coleção de imagens com funcionalidade de visualização.
+Este é um projeto de uma galeria de fotos interativa, desenvolvido com React e TypeScript. O objetivo é mostrar uma coleção de imagens com funcionalidade de visualização.
 
 ## Tecnologias
 
