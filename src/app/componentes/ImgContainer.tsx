@@ -9,7 +9,7 @@ const ImgContainer = ()=>{
     let endereços:string[] = []
 
     for(let i = 1; i <= 9; i++){
-        let end = `/imagens/${i}.jpg`;
+        let end = `imagens/${i}.jpg`;
         endereços.push(end);
     }
 
