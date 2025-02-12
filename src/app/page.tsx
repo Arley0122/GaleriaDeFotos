@@ -1,5 +1,5 @@
 "use client"
-
+import React from "react";
 import ImgContainer from "./componentes/ImgContainer";
 import Modal from "./componentes/Modal";
 import style from "./style/style.module.css"
